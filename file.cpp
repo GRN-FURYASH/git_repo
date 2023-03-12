@@ -1,8 +1,12 @@
+
 # include <iostream>
+
+using namespace std;
 
 int main() {
 
-  std::cout << "Hello Gitathsrthd Github";
+  cout << "Hello Gitathsrthd Github";
+  cout << "just added it! ";
 
 
   return 0;
